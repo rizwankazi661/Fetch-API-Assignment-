@@ -10,7 +10,9 @@
 
 > npm install axios
 
-## Run the main.js file - You will be able to see the fetched data from the MongoDB Database
+> Run the main.js file
+
+### You will be able to see the fetched data from the MongoDB Database
 
 The data in the MongoDB Database:
 
