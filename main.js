@@ -5,9 +5,6 @@ const app = express();
 
 var urlencodedParser = bodyParser.urlencoded({ extended: false });
 
-
-
-
 app.get("/", (req, res) => {
   var axios = require("axios");
   var data = JSON.stringify({
